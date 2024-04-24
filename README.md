@@ -1,3 +1,7 @@
+This project was made with .Net 7.0
+
+Make sure you have .NET 7.0.10 SDK to run and develop this project.
+
 to open project on your editor,
 first write "libman restore" on integrated terminal to add dependencies to your project.
 after then "dotnet watch" to run.
