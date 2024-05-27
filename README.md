@@ -9,7 +9,7 @@ You can
   comment under the posts.
   tag posts and make categorize them.
 
-**Features of the project
+**Features of the project**
 
 *Ef Core
 
