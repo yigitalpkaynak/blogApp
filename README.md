@@ -1,3 +1,5 @@
+## BlogApp Project
+
 This project was made with .Net 7.0
 
 It is basically a blog project. 
@@ -7,7 +9,8 @@ You can
   comment under the posts.
   tag posts and make categorize them.
 
-## Features of the project
+**Features of the project
+
 *Ef Core
 
 *Seed Database
